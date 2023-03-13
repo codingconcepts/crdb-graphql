@@ -25,7 +25,7 @@ Start the server
 $ go run main.go
 ```
 
-### Sample requests
+### Requests
 
 Fetch all todos
 ``` graphql
