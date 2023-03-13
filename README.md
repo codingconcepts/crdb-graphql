@@ -1,3 +1,6 @@
+# crdb-grpc
+A barebones example of accessing CockroachDB via GraphQL
+
 ### Dependencies
 
 * [Go](https://go.dev)
